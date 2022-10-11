@@ -14,7 +14,7 @@ const PrintHello = () => {
 ReactDOM.render(PrintHello(), myDiv);
 ```
 
-Note: the function PrintHello starts with a capital letter because we are going to converted into a [React Component](https://reactjs.org/docs/react-component.html) in the next exercise.
+Note: the function PrintHello starts with a capital letter because we are going to convert it into a [React Component](https://reactjs.org/docs/react-component.html) in the next exercise.
 
 # :speech_balloon: Instructions
 
